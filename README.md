@@ -9,6 +9,7 @@ A neural network model is presented by
 
 ## Perceptron
 <img src="neuron_model.jpeg">
+
 ### Ideas
 
 ### Models
